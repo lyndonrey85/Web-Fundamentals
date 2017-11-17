@@ -1,0 +1,172 @@
+.container {
+    width: 1000px;
+}
+.header img {
+    width: 90px;
+}
+.header p {
+    font-size: 40px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    vertical-align: top;
+}
+.header {
+    display: inline-block;
+    margin-top: -10px;
+}
+.header span {
+    color:#22659e ;
+}
+.title {
+    background:#4b7fab; 
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+.page {
+    background: linear-gradient(#f3f3f3, white);
+}
+.nav_bar {
+    display: inline-block;
+    width: 100px;
+    vertical-align: top;
+    margin: 10px;
+}
+.nav_bar p span {
+    color: red;
+}
+.nav_bar h1 span {
+    color:#22659e ;   
+}
+.nav_bar h1 {
+ font-size: 10px;
+ display: inline-block;
+}
+.blue {
+    font-size: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    background: #3876ab;
+    color: white;
+    display: inline-block;
+    padding: 5px;
+}
+.yellow {
+    background: orange;
+    font-size: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+}
+.front_page {
+    width: 600px;
+    display: inline-block;
+}
+.top_right {
+    width: 776px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 100px;
+    border-bottom: 1px solid black;
+}
+.inquiry {
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+}
+.inquiry img {
+    width: 20px;
+    display: inline-block;
+}
+.inquiry p {
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-block;
+}
+.call h1 {
+    font-size: 10px;
+    margin: 0px;
+}
+.call h2 {
+    color: #6bc3d0;
+    margin: 0px;
+}
+.call h3 {
+    font-size: 10px;
+    margin: 0px;
+}
+.call {
+    display: inline-block;
+}
+.phone {
+    width: 40px;
+    margin-left: 336px;
+}
+.so_what {
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+.cartoon {
+    display: inline-block;
+    width: 100px;
+    background: url(ad_background.png);
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.cartoon img {
+    width: 60px;
+}
+.cartoon button {
+    font-size: 10px;
+    color: white;
+    background: #56ccdf;
+}
+.main_content {
+    font-size: 10px;
+    display: inline-block;
+    width: 700px;
+    margin-left: 100px;
+    vertical-align: top;
+}
+.main_content img {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.main_content span {
+    color:#41b3c3 ;       
+}
+.footer img {
+    width: 100px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.bottom {
+    font-size: 10px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10px;
+    width: 400px;
+}
+.footer {
+    width: 700px;
+    display: inline-block;
+    margin-top: 0px;
+    border-color: blue;
+    border: 5px solid blue;
+    margin-left: 250px;
+    border-bottom: 0px;
+}
+.bottom h1 {
+    color:#22659e; 
+}
+.bottom span {
+    color: lightblue
+}
