@@ -1,0 +1,7 @@
+.container {
+    width: 1000px;
+}
+.header {
+    display: inline-block;
+    background: #38b0ad;
+}
